@@ -1,16 +1,24 @@
-### Hi there 👋
+<div align='center'>
 
-<!--
-**IvaanEr/IvaanEr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :dizzy: Hello, I'm Iván :dizzy:
+![](https://media.giphy.com/media/RhZd5BxGKPt0SgyuyV/giphy.gif?cid=790b7611dee15505dcb44b2c3578cfae860107eacab2c69b&rid=giphy.gif)
+</div>
+<div align='center'>
 
-Here are some ideas to get you started:
+#### :crossed_swords: Steel is my body and fire is my blood :fire:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<samp>
+
+:martial_arts_uniform: Taekwon-Do and Jiu Jitsu practicing
+
+:computer: **Job:** Elixir Backend Developer at BlockFi
+
+:earth_americas: Based on Argentina :argentina:
+
+:gem: Blockchain and crypto enthusiastic
+
+:mailbox:	Contact me on [Linkedin](https://www.linkedin.com/in/ivan-ernandorena-766b20146) or via [email](mailto:ivan.ernandorena@gmail.com)
+
+</samp>
