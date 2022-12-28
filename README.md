@@ -13,7 +13,7 @@
 
 :martial_arts_uniform: Taekwon-Do and Jiu Jitsu practicing
 
-:computer: **Job:** Elixir Backend Developer at BlockFi
+:computer: **Job:** Senior Backend Engineer in Elixir at Firework
 
 :earth_americas: Based on Argentina :argentina:
 
