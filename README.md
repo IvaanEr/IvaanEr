@@ -17,8 +17,6 @@
 
 :earth_americas: Based on Argentina :argentina:
 
-:gem: Blockchain and crypto enthusiastic
-
-:mailbox:	Contact me on [Linkedin](https://www.linkedin.com/in/ivan-ernandorena-766b20146) or via [email](mailto:ivan.ernandorena@gmail.com)
+:mailbox:	Contact me on [Linkedin](https://www.linkedin.com/in/ivan-ernandorena-766b20146)
 
 </samp>
